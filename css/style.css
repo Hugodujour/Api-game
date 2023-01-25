@@ -1,0 +1,70 @@
+body {
+font-family: 'Lato', serif;
+background-color: #191919;
+color: white;
+}
+
+h1 {
+	color: #D20A32;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	margin-right: 5vh;
+	margin-left: 5vh;
+}
+
+img {
+	width: 1000px;
+}
+
+#img-list {
+	width: 100%;
+	aspect-ratio: 3/2;
+
+}
+
+.articles {
+	display: grid;
+ grid-template-columns: repeat(3, minmax(0, 1fr));
+ gap:  2vh;
+}
+ 
+.cardGame {
+    flex: 0 1 33%;
+}
+
+.card {
+
+}
+
+.btn {
+	height: 44px;
+width: 249px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background-color: #D20A32;
+;
+color: white;
+}
+
+.btn:hover{
+	color: black;
+}
+
+.btn:active{
+	color: black;
+	background-color: white;
+}
+
+.hidden {
+	display:  none;
+}
