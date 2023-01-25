@@ -1,6 +1,8 @@
+import {API_KEY} from './apiKey.js'
+import {page} from './pageNumber.js'
+import {genialos} from './routes.js'
 
-
-const PageList = (argument = '') => {
+export const PageList = (argument = '') => {
 
   const preparePage = () => {
     const cleanedArgument = argument.trim().replace(/\s+/g, '-');

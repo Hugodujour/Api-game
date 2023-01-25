@@ -1,1 +1,1 @@
-let page = 9
+export let page = 9

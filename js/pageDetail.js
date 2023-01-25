@@ -1,4 +1,5 @@
-const PageDetail = (argument) => {
+import {API_KEY} from './apiKey.js'
+export const PageDetail = (argument) => {
   const preparePage = () => {
     const cleanedArgument = argument.trim().replace(/\s+/g, "-");
 
