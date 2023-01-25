@@ -22,7 +22,7 @@ This project is a game search engine that allows users to search for games by ti
 
 1. Clone the repository by running  `git clone https://github.com/Hugodujour/Api-game.git`
 2. Install dependencies by running `npm install`
-3. Run the project by opening the `index.html` file in your browser
+3. Run the project by `npm run dev` and go to `http://localhost:3000/`
 4. Type in a game title or keyword in the search bar and hit enter
 5. Use the platform filter to further refine your results
 6. Click the "Show more" button to view more results
