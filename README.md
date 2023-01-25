@@ -1,7 +1,7 @@
 # Api-game
 
 This project is a game search engine that allows users to search for games by title, platform, and other parameters, and display the results in an attractive and easy-to-use interface. The search engine makes use of the RAWG video game database API to fetch game data and display it to the user.
-![Alt text](/relative/path/to/The_hyper_progame.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/The hyper progame.png?raw=true "Optional Title")
 
 ## Features
 
